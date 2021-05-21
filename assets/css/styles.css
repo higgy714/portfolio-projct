@@ -1,5 +1,6 @@
 body {
     font-family: 'Days One';
+    background-color: #1d2d44;
 }
 
 .jumbotron {
@@ -13,3 +14,12 @@ body {
     background-color: #1d2d44;
     color: #f0ebd8;
 }
+
+.site-footer {
+  background-image: linear-gradient(#748cab, white);
+  padding: 20px 0; }
+
+  .card {
+      background-color: #3e5c76;
+      color: #f0ebd8;
+  }
